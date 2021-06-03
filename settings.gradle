@@ -1,0 +1,9 @@
+rootProject.name = "practice1"
+include ':layout_types_task'
+include ':layouttype:task3_4'
+include ':change_textview_task'
+include ':contactcardtask'
+include ':contact_card_task'
+include ':second_layout_activity_task'
+include ':change_elements_from_code_task'
+include ':click_buttons'
